@@ -4,9 +4,9 @@
 
 ## 示例
 
-![cv_1](./assets/cv_1.png)
+![cv_1](./assets/cv_1.webp)
 
-![cv_2](./assets/cv_2.png)
+![cv_2](./assets/cv_2.webp)
 
 ## 使用说明
 
@@ -15,7 +15,7 @@
    - [kpfonts](https://ctan.org/pkg/kpfonts)
    - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
    - [Source Han Serif](https://source.typekit.com/source-han-serif/cn/)
-3. 根据需要修改 `.tex` 文件. 你可能需要了解 typst 的一些基本语法。
+3. 根据需要修改 `.typ` 文件. 你可能需要了解 typst 的一些基本语法。
 
 ## 此外
 
