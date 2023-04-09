@@ -1,6 +1,6 @@
 # typst-cv-miku
 
-这是一个 [typst](https://typst.app/) 的个人简历（CV）模板。
+这是一个 [typst](https://typst.app/) 的个人简历（CV）模板。支持中英文（以及更多）。
 
 ## 示例
 

@@ -1,6 +1,6 @@
 # typst-cv-miku
 
-This is a CV template for [typst](https://typst.app/).
+This is a CV template for [typst](https://typst.app/). Support for English and Chinese (and more).
 
 ## Showcases
 
